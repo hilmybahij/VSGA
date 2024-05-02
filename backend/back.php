@@ -87,7 +87,7 @@ $tgl=date('Y-m-d');
 			</table>
 		</div>
 		</div>
-		<div id="footer"><h3>Sistem Informasi Perpustakaan (sipus) | Praktikum </h3></div>
+		<div id="footer"><h3>Sistem Informasi </h3></div>
 	</div>
 </body>
 </html>
