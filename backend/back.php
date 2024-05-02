@@ -55,7 +55,7 @@ $tgl=date('Y-m-d');
 			<table id="tabel-tampil">
 				<tr>
 					<th id="label-tampil-no">No</td>
-					<th>ID Buku</th>
+					<th>ID Barang</th>
 					<th>NAMA BARANG</th>
 					<th>MERK</th>
 					<th>JUMLAH</th>
