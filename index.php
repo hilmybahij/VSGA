@@ -26,6 +26,12 @@ include 'koneksi.php';
         <a class="nav-link active" href="index.php">Home</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="pages/dklien.php">Daftar Klien</a>
+      </li>
+     <li class="nav-item">
+        <a class="nav-link" href="pages/galery.php">Galery Foto</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="pages/klien.php">Barang</a>
       </li>
     </ul>
@@ -108,6 +114,7 @@ include 'koneksi.php';
 <div class="mt-5 p-4 bg-dark text-white text-center">
 <p>No HP. 0888888888</p>
 <p>clubmedan@gmail.com</p>
+<p>Jl. Sana Sini</p>
 </div>
 
 
